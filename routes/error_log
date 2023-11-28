@@ -1,0 +1,44 @@
+[18-Jul-2023 17:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 17:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 18:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/api.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/api.php on line 37
+[18-Jul-2023 18:11:17 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 18:11:38 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 18:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 18:11:44 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 18:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 21:01:38 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33
+[18-Jul-2023 21:01:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/api.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/api.php on line 37
+[30-Aug-2023 15:43:30 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/letsflys/public_html/routes/web.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/routes/web.php on line 33

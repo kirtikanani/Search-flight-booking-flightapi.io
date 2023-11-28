@@ -1,0 +1,1118 @@
+@media only screen and (min-width: 1200px) {
+    .grid-d-6 {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 1100px) {
+    .container {
+        width: 1040px;
+    }
+
+    .slider_tab {
+        max-width: 880px;
+    }
+
+    .HorizontalFlightSearch_submit__Pwl4r {
+        font-size: 14px;
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 980px;
+    }
+}
+
+@media (max-width: 991px) {
+    .quickey_title .col-lg-2 {
+        width: 33%;
+    }
+
+    .flights_detai {
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 1023px) and (min-width: 768px) {
+
+    
+    .partners_list li .coinbase {
+        margin-top: 8px;
+    }
+    .partners_list li .amazon-web-services {
+        margin-top: -4px;
+    }
+    .partners_list li .Amadeus {
+        margin-top: 0px;
+    }
+
+    .partners_list li .Utrust {
+        margin-top: -26px;
+    }
+    .partners_list li .TripStack {
+        margin-top: 9px;
+    }
+    .partners_list li .Braintree {
+        margin-top: -14px;
+    }
+    .partners_list li .Hahn-Air {
+        margin-top: -18px;
+    }
+    .partners_list li .Zip {
+        margin-top: 4px;
+    }
+
+    .slider_tab {
+        max-width: 680px;
+        height: 336px;
+
+    }
+    .slider_tab.multiple {
+        height: auto !important;
+    }
+
+    .flight_details_gap .container {
+        width: 970px;
+    }
+
+    .container {
+        width: 740px;
+    }
+
+    .home_slide_secion img {
+        width: 70%;
+    }
+
+    #paymentModal .modal-dialog {
+        max-width: 700px;
+    }
+
+    .custome_data_time input {
+        position: absolute;
+    }
+
+    .help-centre_wrapper__flzhz {
+        padding: 80px 0 0;
+    }
+
+    .CategoryPicker_container__OXvYw {
+        margin-bottom: 80px;
+    }
+
+    .CategoryPicker_category__sz7t1 {
+        width: 33.33%;
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+
+    .CategoryPicker_icon__4MAGF {
+        width: 60px;
+    }
+
+    .ManageBookingLogin_container__rwgJs {
+        margin: 80px 0;
+    }
+}
+
+@media (min-width: 768px) {
+
+    /* .container {} */
+
+    .ancillaries .bags-price-breakdown-button, .ancillaries .extras-price-breakdown-button, .ancillaries-extras .bags-price-breakdown-button, .ancillaries-extras .extras-price-breakdown-button {
+        margin-left: auto;
+    }
+
+    .slider__qionu {
+        max-width: 550px;
+    }
+
+    .HorizontalFlightSearch_col__f_ElC {
+        width: 50%;
+    }
+
+    .ShowcaseSliderItem_title__IrZ_o {
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .IconCta_container__700kl {
+        height: 60px;
+        font-size: 16px;
+        padding-right: 20px;
+        margin: 0 20px 20px 0;
+    }
+
+    .IconCta_icon__dflQd {
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+        margin-right: 20px;
+    }
+
+    .partners_list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .quickSort_item {
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .Tooltip_tooltip__ViBRq {
+        transform: translate(-50%, -100%);
+    }
+
+    .ManageBookingLogin_column__WZ_Ss {
+        flex: 1 1;
+        width: auto;
+        flex-basis: 300px;
+    }
+
+
+    .Contact_container__2nRoV {
+        margin: 80px auto;
+        flex-direction: row;
+    }
+
+    .Contact_title__cVTPw {
+        margin: 0;
+    }
+
+    .Hero_container__w4kjg {
+        height: 700px;
+    }
+
+    .Accordion_title__VTW1P {
+        margin-bottom: 80px;
+    }
+
+    .Accordion_feedback-buttons__nRIgb {
+        width: auto;
+        flex-wrap: nowrap;
+    }
+
+    .Accordion_footer__text__o7_ra {
+        margin-bottom: 0;
+        text-align: left;
+    }
+
+    .Accordion_footer__button__myIaM {
+        height: 30px;
+        flex: initial;
+    }
+
+    .Accordion_feedback-buttons__completed__dXL5k {
+        justify-content: flex-start;
+    }
+
+    .Accordion_feedback-buttons--contact__gFXFd {
+        margin-left: auto;
+    }
+
+}
+ 
+
+@media only screen and (max-width: 767px) {
+
+    
+    .partners_list li .coinbase {
+        margin-top: 6px;
+        height: 100% !important;
+    }
+    .partners_list li .Utrust {
+        margin-top: -72px;
+    }
+    .partners_list li .Braintree {
+        margin-top: -45px;
+    }
+    
+    /* 12-07-2023 */
+    .Payment_details_span_custome{
+        gap: 10%;
+    }
+    .refund-package__header-bank{
+        padding: 0;
+    }
+    .refund-package__header-row .accordion_head{
+        font-size: 13px;
+    }    
+    .Filters_overlay--open__ExATD {
+        left: 0;
+        transition-delay: 0s;
+    }
+    .Filters_overlay__wyWWu {
+        background-color: rgba(0,0,0,.5);
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 100%;
+        z-index: 101;
+        flex-direction: column;
+        overflow-y: auto;
+        display: flex;
+        transition: background-color .25s ease,left 0 linear;
+        transition-delay: .25s;
+        overflow-x: hidden;
+    }
+    .Filters_container__d9kJd {
+        max-width: 100%;
+        transform: translateY(100%);
+        transition: transform .25s ease;
+        border-radius: 20px 20px 0 0;
+        margin-top: auto;
+        position: relative;
+        background-color: #fff;
+        flex: 0.5 1;
+    }
+    /* 12-07-2023 end */
+
+    /* 14-07-2023 start */
+    .FlightLarge_right__ADJ_F-mobile .FlightSmall_col__7aeq1{
+        position: absolute;
+        bottom: 69px;
+        font-size: 12px;
+    }
+    .FlightLarge_right__ADJ_F-mobile-one .FlightSmall_col__7aeq1{
+        position: absolute;
+        bottom: 13px;
+        font-size: 12px;
+        
+    }
+    .FlightSmall_col__7aeq1 .FlightSmall_info__BX8K4{
+        white-space: nowrap;
+        width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+     .FlightLarge_right__ADJ_F-mobile .FlightSmall_col__7aeq1.button{
+        right: 10px ;
+        bottom: 57px !important;        
+    }
+    .FlightLarge_right__ADJ_F-mobile .FlightSmall_col__7aeq1 button {
+        height: 36px;
+        width: 90px;
+    }
+    .FlightLarge_right__ADJ_F-mobile-one .FlightSmall_col__7aeq1.button{
+        right: 10px ;
+        bottom: 5px !important;
+    }
+    .FlightLarge_right__ADJ_F-mobile-one .FlightSmall_col__7aeq1 button {
+        height: 36px;
+        width: 90px;
+    }
+    .FlightLarge_right__ADJ_F-mobile{
+        position: absolute;
+        bottom: 33px;
+        width: 100%;
+    }
+    .FlightLarge_right__ADJ_F-mobile-one{
+        position: absolute;
+        width: 100%;
+    }
+    .mobile-view-list{
+        display: block ; 
+    }
+    .FlightLarge_inner__P5CEz{
+        display: none ; 
+    }
+    .MobileFilters_wrapper__SZEi_{
+        display: block ; 
+    }
+    /* 14-07-2023 end */
+
+    /* 15-07-2023 */
+    .slider_tab.multiple {
+        height: auto !important;
+    }
+
+    /* 17-07-2023 */    
+    .booking-flight-details-flight-row {
+        display: grid;
+        justify-content: end;
+        border: 1px solid #caced1;
+        justify-items: start;
+        margin-bottom: 10px;
+    }
+
+    .refund-package__repeated {
+        display: block;
+    }
+
+    .protect-buttons-container {
+        display: block !important;
+        text-align: center;
+    }
+
+    #ticket_cancel_pup_body {
+        max-width: 395px;
+    }
+
+    .modal-canx-container {
+        padding: 25px 0;
+    }
+
+    .ctl_third_int {
+        width: 100%;
+    }
+
+    /* .booking-section-title .col-4, */
+    .booking-section-title .col-8 {
+        width: 100%;
+    }
+    
+
+    .booking-flight-details-flight-times {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: -24px;
+    }
+
+    .atlant {
+        color: #495662;
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .plusminus {
+        float: right;
+        margin-top: -18px;
+        margin-bottom: -2px;
+    }
+
+    .booking-flight-details-flight-col {
+        display: flex;
+        flex-direction: column;
+        line-height: 17px;
+        padding: 17px;
+        row-gap: 6px;
+        margin: auto;
+    }
+
+    .booking-flight-details-flight-icon {
+        display: flex;
+        padding: 0px;
+        -webkit-flex-direction: column;
+        flex-direction: column;
+        -webkit-flex: 1 1 auto;
+        flex: 1 1 auto;
+        margin-bottom: -10px;
+        margin-top: -69px;
+    }
+
+    .booking-flight-details-flight-row .exploreflight {
+        /* margin-top: -77px;
+        margin-left: 27px;
+        padding: 1.25rem; */
+        width: 100%;
+    }
+
+    .booking-flight-details-flight-row:last-child {
+        display: grid;
+        justify-content: end;
+        border: 1px solid #caced1;
+        justify-items: start;
+        margin-bottom: 10px;
+    }
+
+    .booking-flight-details-flight-row {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .booking-flight-details-flight-row:last-child {
+        justify-content: center;
+    }
+
+    .booking-flight-details-flight-logo img {
+        margin: auto;
+    }
+    
+    .desktop_view{
+        display: none ; 
+    }
+    .mobile_view{
+        display: block ; 
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .row {
+        /* flex-wrap: wrap;
+        flex-direction: column; */
+    }
+
+    .select-input .custom-select {
+        min-height: 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .accordion_body.flexible .row .col-6 {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 767px) {
+    .mobile-close-div-datepicker{
+        float: right !important;
+        position: relative;
+        top: 21px;
+        right: 7px;
+        margin-top: -25px;
+    
+    }
+    .HorizontalFlightSearch_col__f_ElC .modal{
+        height: 100%  !important;
+    }
+    .comiseo-daterangepicker-right .comiseo-daterangepicker-buttonpanel {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    #ui-datepicker-div{
+        top: 0 !important;
+        left: 0 !important;
+        height: 100% !important;
+        overflow: scroll !important;
+    }
+    
+    .comiseo-daterangepicker-main{
+        margin-top: 7px;
+    }
+    .comiseo-daterangepicker {
+        position: fixed !important;
+        padding: 5px !important;
+        overflow: scroll;
+        max-height: 100%;
+        height: auto;
+        z-index: 9999999999999999999999999 !important;
+    }
+    /* 13-07-2023 modile changes */
+    .mobile_slider_sec{
+        background-color: white;
+        padding: 40px 0;
+        background-image: none;
+        background-size: cover;
+        background-position: bottom;
+    }
+    .mobile_slider_sec .slider__qionu{
+        display: none;
+    }
+    .mobile_slider_sec .slider_tab{
+       margin-top: auto;
+    }
+    .mobile_PaymentMethod_logo{
+        display: flex;
+    }
+    .mobile_PaymentMethod_logo img{
+        height: 46px !important;
+    }
+    .payment-method-Coingate-130{
+            gap: 0px;
+    }
+    .booking-section-tsncs-mobile{
+        margin-top: 15px;
+    }
+    .custome_data_time input{
+         position: absolute;
+    }
+    .search-flight-custome-date input{
+        position: absolute;
+    }
+    .Dropdown_dropdown__YFvvQ{
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100% !important;
+    }
+    .Dropdown_title__cEB8Z{
+        margin-bottom: 20px;
+        margin-top: 19px;
+    }
+    .Dropdown_title_Passengers_mobile .btn-close,.Dropdown_title__cEB8Z_modile .btn-close{
+        position: absolute;
+        right: 15px;
+    }
+    .FlightSearch_container_mobile{
+        display: none;
+    }
+    .Mobile_container__nNrIR{
+        display: flex;
+    }
+    #exampleModal-for-search .modal-dialog .modal-content .modal-footer-close-button button{
+        margin-bottom: 10px;
+        margin-left: 70%;
+    }
+    #exampleModal-for-search .modal-dialog .modal-content .modal-body .slider_tab{
+        margin: 0;
+    }
+    .flights_filters_right{
+        display: none;
+    }
+    /* 13-07-2023 modile changes */
+
+    /* 17-07-2023 */
+    .exploreflight .amenities {
+        display: grid;
+        margin: -57px 40px;
+        justify-content: space-around;
+    }
+    .theModal.modal.fade .modal-dialog {
+        bottom: 0;
+        position: absolute;
+        width: 100% ;
+        max-width:100% ;
+        display: table;
+        margin: 0;
+    }
+    .theModal .modal-dialog .modal-content .modal-header button{
+        background-color: #fbbf24;
+        border: 3px;
+    }
+     .theModal .modal-dialog .modal-content {
+      border-radius: 0px !important;
+    }
+
+    .container {
+        width: 100%;
+    }
+    .flights_sticky__6PovH{
+        display: block;
+    }
+    .flights_filters_inner{
+        display: none;
+    }
+
+    .booking-section-payment-action {
+        width: auto;
+    }
+
+    .row.promo_email {
+        display: none;
+    }
+
+    .booking-section__journey {
+        border-top: none;
+    }
+
+    .maindetails .booking-section-inner {
+        padding-bottom: 1px;
+    }
+
+    .flights_filters_right {
+        margin-top: 40px;
+    }
+
+    .booking-flight-details-flight-col img {
+        margin: auto;
+    }
+
+    .select-input .custom-select {
+        width: 100%;
+    }
+
+    .main_logo a img {
+        width: 100%;
+        max-width: 140px;
+    }
+
+    .main_logo {
+        padding: 0 20px;
+    }
+
+    .flight_details_gap .container {
+        width: 98%;
+    }
+
+    .home_slide_secion img {
+        width: 70%;
+    }
+
+    .slider_tab {
+        max-width: 690px;
+        height: 420px;
+    }
+
+    .HorizontalFlightSearch_submit__Pwl4r {
+        font-size: 20px;
+    }
+
+    .buynow_later {
+        position: unset;
+        text-align: center;
+    }
+
+    .buynow_later img {
+        /* max-width: 480px;
+        min-width: 480px; */
+    }
+
+    .recommend_mock_map .recommend_mock {
+        text-align: center;
+    }
+
+    .recommend_mock_map .recommend_mock img {
+        /* max-width: 480px;
+        min-width: 480px; */
+    }
+
+    .recommend_mock_map {
+        flex-direction: column-reverse;
+    }
+
+    .rotection_right {
+        margin-top: 60px;
+    }
+
+    .PaymentMethods_payment {
+        width: 440px;
+        margin: auto;
+    }
+
+    .ManageBookingLogin_column {
+        width: 85%;
+        margin: 35px auto;
+    }
+
+    .first_sec {
+        display: flex;
+        flex-direction: inherit;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    .foo_booking_center_wrap {
+        text-align: center;
+        display: block;
+        margin-top: 25px;
+    }
+
+    .foo_booking_right_wrap {
+        text-align: center;
+        display: block;
+        margin-top: 25px;
+    }
+
+    .right_link_botoom {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .footer_botom {
+        padding: 18px 0;
+    }
+
+    #paymentModal .modal-dialog {
+        max-width: 590px;
+    }
+
+    #paymentModal .modal-body {
+        padding: 0px 35px 0;
+    }
+
+}
+
+
+@media (max-width: 575px) {
+    .AirlineLogos_container__kon63{
+        margin-bottom: 20px;
+    }
+    .Checkbox_container__W9LTB {
+       
+        width: 28px;
+        float: left;
+    }
+    /* .FlightLarge_inner__P5CEz{
+        display: block !important;
+    } */
+    .AirlineLogos_timer_mobile_sec {
+        display: block;
+    }
+
+    #ticket_cancel_pup_body {
+        max-width: 520px !important;
+        margin: auto;
+    }
+
+
+
+    .quickSort_item_info h4 {
+        font-size: 10px;
+    }
+
+    .quickSort_item_details h4 {
+        font-size: 11px;
+    }
+
+    .main_logo a img {
+        width: 100%;
+        max-width: 125px;
+    }
+
+    .slider_tab {
+        max-width: 525px;
+        height: 421px;
+    }
+
+    .quickey_title .col-lg-2 {
+        width: 50%;
+    }
+
+    .footer_botom {
+        display: block;
+        text-align: center;
+    }
+
+    .right_link_botoom {
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .Duration_container__t69p4,
+    .Bookend_container__3qkC5 {
+        /* display: none;*/
+    }
+
+    .FlightLarge_inner__P5CEz {
+        justify-content: start;
+        align-items: center;
+    }
+
+    .FlightLarge_container__16ya5 {
+        display: block;
+    }
+
+    .FlightLarge_right__ADJ_F {
+        /* margin: 0 0 24px 0; */
+    }
+
+    .exllent_review a span {
+        font-size: 12px;
+    }
+
+    .exllent_review {
+        line-height: 15px;
+    }
+
+    /* #paymentModal .modal-dialog {
+            max-width: 453px;
+            margin: 35px auto;
+        } */
+
+}
+
+@media screen and (min-width: 530px) {
+    .tp-widget-review__source__arrow {
+        left: 20%;
+    }
+}
+
+@media (max-width: 425px) {
+    .col img {
+        width: auto !important;
+        height: 81% !important;
+        margin-left: -4px;
+    }
+    .partners_list li .Utrust {
+        margin-top: -36px;
+    }
+    .partners_list li .TripStack {
+        margin-top: -40px;
+    }
+    .partners_list li .Hahn-Air {
+        margin-top: -23px;
+    }
+    .buynow_later img {
+        /* max-width: 390px;
+        min-width: 390px; */
+    }
+    .custome-width-set .row .col-4{
+        padding: 0 5px;
+    }
+    #exampleModal-for-search .modal-dialog{
+        width: auto;
+    }
+
+    .top_gendering_tickit {
+        display: block;
+    }
+
+    .main_logo a img {
+        max-width: 118px;
+    }
+
+    .recommend_mock_map .recommend_mock img {
+        /* max-width: 390px;
+        min-width: 390px; */
+    }
+
+    .PaymentMethods_payment {
+        width: 330px;
+        margin: auto;
+    }
+
+    .slider_tab {
+        max-width: 395px;
+    }
+
+    .last_menu_right li a {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .your_itinerary_wrap {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 390px) {
+    .buynow_later img {
+        /* max-width: 360px;
+        min-width: 360px; */
+    }
+
+    .recommend_mock_map .recommend_mock img {
+        /* max-width: 360px;
+        min-width: 360px; */
+    }
+
+    .all_flights_img a img {
+        padding: 20px 0;
+    }
+}
+@media (max-width: 320px) {
+    .partners_list li .Routehappy {
+        margin-top: 9px;
+    }
+    .partners_list li .amazon-web-services {
+        margin-top: -14px;
+    }
+    .partners_list li .APG {
+        margin-top: -9px;
+    }
+    .partners_list li .Zip {
+        margin-top: 4px;
+    }
+    .partners_list li .CitizenPlane {
+        margin-top: -35px !important;
+    }
+}
+@media (max-width: 375px) {
+    .buynow_later img {
+        /* max-width: 290px;
+        min-width: 290px; */
+    }
+    .partners_list li .amazon-web-services {
+        margin-top: -14px;
+    }
+    .partners_list li .CitizenPlane {
+        margin-top: -21px;
+    }
+    .partners_list li .Braintree {
+        margin-top: -35px;
+    }
+    .custome-width-set .ctl_title label{
+            font-size: 9px;
+    }
+    .custome-width-set .select-input .custom-select{
+        padding: 10px;
+        font-size: 12px;
+        padding-left: 6px;
+    }
+
+    .recommend_mock_map .recommend_mock img {
+        /* max-width: 290px;
+        min-width: 290px; */
+
+    }
+
+    .refund-package__tile ul li.tick {
+        display: flex;
+    }
+
+    .Price_price__WtdgG.withoutDiscountPrice,
+    .Price_price__WtdgG {
+        font-size: 14px;
+    }
+
+    .Result_header__uwm2t {
+
+        padding: 10px 9px !important;
+    }
+
+    .booking-section-payment-action-total {
+        font-size: 16px !important;
+    }
+
+    #pills-tab {
+        justify-content: space-evenly;
+    }
+
+    #pills-tab li button {
+        margin-left: 0;
+        padding: 8px 5px;
+    }
+
+    .booking-section-payment-action-total {
+        text-align: center;
+    }
+
+    .refund-package__tile ul .covid-19 {
+        width: 100%;
+    }
+
+    .booking-section-payment-action .row {
+        width: 100% !important;
+    }
+
+    .booking-section-payment-action-button.payment_booking {
+        padding: 10px !important;
+        font-size: 16px !important;
+    }
+
+    .slider_tab {
+        max-width: 355px;
+    }
+
+    .all_flights_img a img {
+        padding: 20px 0px;
+        width: 100%;
+    }
+
+    .PaymentMethods_payment {
+        width: 300px;
+        margin: auto;
+    }
+
+    .quickey_title .col-lg-2 {
+        width: 48%;
+    }
+}
+
+@media (min-width: 414px) {
+    .Result_header__uwm2t {
+        padding: 16px 20px;
+    }
+
+    .Plaques_plaque__5yNHH {
+        padding: 8px 12px;
+    }
+
+    .CategoryPicker_category__sz7t1:first-of-type {
+        border-radius: 10px 0 0 0;
+    }
+
+    .CategoryPicker_category__sz7t1 {
+        width: 50%;
+        padding: 10px;
+        text-align: left;
+        height: 125px;
+        flex-direction: row;
+    }
+
+    .CategoryPicker_icon__4MAGF {
+        width: 40px;
+        margin: 0 15px 0 0;
+    }
+}
+ @media (max-width: 700px) {
+        
+        .comiseo-daterangepicker{
+          top: 0 !important;
+          left: 0 !important;
+          z-index: 9999999999999999999999999;
+        } 
+        .comiseo-daterangepicker-right .comiseo-daterangepicker-calendar{
+          border-left-width: 0px;
+        }
+        
+        .ui-datepicker.ui-datepicker-multi{
+          width: 100% !important; 
+        }
+        .ui-datepicker-multi .ui-datepicker-group {
+          float: left;
+          width: 100%;
+      }
+        .comiseo-daterangepicker-right .comiseo-daterangepicker-calendar{
+          border-left-width: 0px;
+        }
+        .ui-datepicker-multi-2 .ui-datepicker-group {
+            width: 100% !important;
+        }
+      }
+
+@media (max-width: 561px) {
+    .mobile_view_bank{
+        display: block;
+    }
+    .desktop_view_bank{
+        display: none;
+    }
+    #uploadButtonMobile{
+        display: block;
+    }
+    #uploadButton{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 576px){
+    .ancillaries .booking-section__header, .ancillaries-extras .booking-section__header {
+        -webkit-flex-direction: row;
+        flex-direction: row;
+    }
+    .ancillaries .bags-and-special-baggage-price, .ancillaries-extras .bags-and-special-baggage-price {
+        place-self: center;
+        margin-top: 0px;
+    }
+    .ancillaries .checked-baggage-item, .ancillaries-extras .checked-baggage-item {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-direction: row;
+        flex-direction: row;
+        -webkit-justify-content: space-between;
+        justify-content: space-between;
+        padding: 20px;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    .ancillaries .checked-baggage-item .checked-baggage-info-wrapper, .ancillaries-extras .checked-baggage-item .checked-baggage-info-wrapper {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+    .ancillaries .checked-baggage-item .price, .ancillaries-extras .checked-baggage-item .price {
+        margin-left: auto;
+    }
+    .ancillaries .baggage-count-container, .ancillaries .counter, .ancillaries-extras .baggage-count-container, .ancillaries-extras .counter {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (min-width: 440px){
+    .ancillaries .additional-baggage, .ancillaries-extras .additional-baggage {
+        place-self: flex-start;
+    }
+}
+
+@media (min-width: 560px)
+{
+    .priceBreakdown_container .tooltip--bottom {
+    -webkit-transform: translateX(50%);
+    transform: translateX(50%);
+    }
+    .priceBreakdown_container .tooltip {
+        padding: 14px;
+        width: 300px;
+        right: calc(70% + 30px);
+    }
+}

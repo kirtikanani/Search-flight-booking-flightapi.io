@@ -1,0 +1,8 @@
+[18-Jul-2023 16:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/letsflys/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/bootstrap/app.php on line 14
+[18-Jul-2023 17:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/letsflys/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/bootstrap/app.php on line 14

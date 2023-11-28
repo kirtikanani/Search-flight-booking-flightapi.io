@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcaptcha","\u002Fcrypto\u002F[prismicCryptoSlug]","\u002Fjobs\u002F[prismicJobsSlug]","\u002Fmanage","\u002Fmanage\u002Flogin","\u002Fmedia\u002F[prismicMediaSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,62 @@
+.search {
+    margin-bottom: var(--spacing-small);
+}
+.airport {
+    display: flex;
+    color: var(--color-type);
+    border-bottom: 1px solid var(--color-cadet);
+    padding: var(--spacing-small) var(--spacing-medium);
+    align-items: center;
+    cursor: pointer;
+    background-color: white;
+}
+@media (--breakpoint-medium) {
+    .airport {
+        padding: var(--spacing-small);
+        margin: 0 -10px;
+    }
+}
+.airport:hover {
+    background-color: var(--color-cadet);
+}
+.airport--highlighted,
+.airport--highlighted:hover,
+.airport:focus {
+    background-color: var(--color-horizontal-flight-search-primary-400);
+    color: var(--color-horizontal-flight-search-secondary-400);
+}
+.airport:first-of-type {
+    margin-top: var(--spacing-small);
+}
+.airport i {
+    margin-right: var(--spacing-small);
+}
+.text {
+    flex: 1;
+}
+.country {
+    font-size: 0.75rem;
+    opacity: 0.5;
+}
+.code {
+    border: 1px solid var(--color-cadet);
+    padding: 5px;
+    margin-left: auto;
+    font-weight: lighter;
+    font-family: 'Lucida Console', Monaco, monospace;
+    opacity: 0.5;
+}
+.Airport_airport__nNby_ img {
+    margin-right: var(--spacing-small);
+}
+.Airport_code__rkNaN {
+    border: 1px solid var(--color-cadet);
+    padding: 5px;
+    margin-left: auto;
+    font-weight: lighter;
+    font-family: Lucida Console,Monaco,monospace;
+    opacity: .5;
+}
+.AirportField_airport-search__X9tnw-search{
+    margin: 0;
+}

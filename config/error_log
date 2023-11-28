@@ -1,0 +1,28 @@
+[18-Jul-2023 16:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/app.php on line 18
+[18-Jul-2023 16:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/app.php on line 18
+[18-Jul-2023 16:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/database.php on line 18
+[18-Jul-2023 17:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/app.php on line 18
+[18-Jul-2023 18:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/session.php on line 21
+[18-Jul-2023 20:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/database.php on line 18
+[18-Jul-2023 20:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/letsflys/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/letsflys/public_html/config/database.php on line 18

@@ -1,0 +1,65 @@
+ .slider_flights_details {
+     display: block;
+ }
+
+ .Dropdown_dropdown__YFvvQ {
+     position: absolute;
+     background-color: #fff;
+     border-radius: var(--border-radius);
+     box-shadow: 0 8px 24px hsl(210deg 8% 62% / 20%);
+     top: -40px;
+     left: -10px;
+     width: 80vw;
+     padding: 0 var(--spacing-small) var(--spacing-small) var(--spacing-small);
+     z-index: 2;
+     color: var(--color-type);
+     max-width: 500px;
+     opacity: 1;
+     display: none;
+     transform: translate(0px, 0px);
+ }
+
+ .datetimes {
+     color: #fff;
+     border: none;
+     line-height: 0;
+     padding: 0;
+     height: 0;
+ }
+
+ .datetimes2 {
+     color: #fff;
+     border: none;
+     line-height: 0;
+     padding: 0;
+     height: 0;
+ }
+
+ .daterangepicker.opensright:after {
+     display: none;
+ }
+
+ .daterangepicker.opensright:before {
+     display: none;
+ }
+
+ .HorizontalFlightSearch_submit__Pwl4r {
+     background-color: #2563eb;
+     border-color: #2563eb;
+     color: #fff;
+ }
+
+ .HorizontalFlightSearch_add-flight__BEoAN {
+     border-radius: 12px;
+     color: #2563eb;
+     background: #eef3fd;
+     border-color: #eef3fd;
+     box-shadow: unset;
+     outline: unset;
+     margin: 0;
+ }
+
+ .HorizontalFlightSearch_submit__Pwl4r:hover {
+     background-color: var(--color-horizontal-flight-search-primary-600);
+     color: #2563eb;
+ }

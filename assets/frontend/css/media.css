@@ -1,0 +1,183 @@
+@media (max-width: 1450px) {
+    .product_right_desc {
+        padding: 20px 20px 0;
+    }
+}
+
+@media (max-width: 1375px) {
+    .addcart_user button {
+        font-size: 14px;
+    }
+
+    .inqury_bttn a,
+    .addto_wishlist a {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1250px){
+    .addcart_user button{
+        padding: 12px 5px;
+    }
+    .inqury_bttn a, .addto_wishlist a{
+        padding: 12px 5px;
+    }
+}
+
+@media (max-width: 1155px){
+    
+}
+
+@media (max-width: 1024px) {
+    .latest_show_wrap .col-md-3 {
+        width: 33%;
+    }
+
+    .height_img {
+        height: 340px;
+    }
+
+    .banner_row_id .col-lg-4 {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav {
+
+        display: -webkit-inline-box !important;
+        flex-wrap: wrap !important;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .latest_show_wrap .col-md-3 {
+        width: 50%;
+    }
+
+    .height_img {
+        height: 510px;
+    }
+
+
+}
+
+@media (max-width: 991px) {
+
+    .header_last_sec {
+        text-align: end;
+        margin-left: auto;
+    }
+
+    .search {
+        margin-left: auto !important;
+        margin: inherit;
+    }
+
+    .latest_sec .container-fluid {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .container-fluid {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .adddata {
+        margin-top: 45px;
+    }
+}
+
+@media (max-width: 620px) {
+    .top_headermenu {
+        display: block;
+    }
+
+    .currency_bar select {
+        padding-left: 0;
+        /* width: 15%; */
+    }
+
+    .address_bar_top {
+        margin-right: 0;
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 767px) {
+
+
+    .latest_show_wrap .col-md-3 {
+        width: 100%;
+    }
+
+    .logo_rows .col-sm-6 {
+        width: 100%;
+    }
+
+    .search {
+        margin-top: 18px;
+        width: 100%;
+    }
+
+    .banner_row_id .col-lg-4 {
+        width: 100%;
+    }
+
+    .header_last_sec {
+        margin-top: 18px;
+    }
+
+    .maun_logo {
+        text-align: center;
+    }
+
+    .bottom_foooter_desc ul {
+        display: block;
+    }
+
+    .bottom_foooter_desc ul li {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .footer_bootom {
+        padding: 20px 0 0;
+    }
+
+    .page-link {
+        padding: 5px;
+    }
+
+    /* .nav_pagination ul {
+        justify-content: center;
+        display: inline-block;
+        padding-left: 0;
+        margin: 20px 0;
+        border-radius: 4px;
+    }
+    .pagination>li{
+        display: inline;
+    } */
+}
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 700px !important;
+    }
+    
+   
+}
+
+@media (max-width: 576px) {
+    /* .container-fluid {
+        padding-right: 40px;
+        padding-left: 40px;
+    } */
+
+    .price_desc_grp{
+        display: block;
+    }
+}

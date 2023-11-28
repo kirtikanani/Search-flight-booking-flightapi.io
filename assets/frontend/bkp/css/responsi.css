@@ -1,0 +1,143 @@
+@media screen and (min-width:1650px){.container{max-width:1600px;}
+}
+@media screen and (max-width:1600px){.products-box-conta h2{font-size:20px;}
+.products-box-conta p{font-size:17px;}
+.all-title h2{font-size:38px;}
+.section-io-difference .products-box-conta h2{font-size:18px;}
+.section-io-difference .products-box-title p{font-size:20px;}
+.section-io-difference .products-box-title{min-height:80px;}
+.our-blog-conta h2{font-size:20px;}
+.our-blog-conta p{font-size:16px;}
+.footer .footer-menu ul li a{margin-right:25px;font-size:12px;}
+.footer{padding:30px 0;}
+.section-io-difference{padding:60px 0;}
+.section-banner-text h2{font-size:48px;}
+.presglasses{padding:90px 0;}
+.products-box-title p{font-size:20px;}
+.section-about{padding:79px 0;}
+.bookeyetest-text{bottom:20px;left:17px;}
+.bookeyetest-text a{font-size:26px;line-height:53px;}
+.about-cont h2{font-size:34px;margin-bottom:12px;}
+.about-cont{width:95%;}
+.about-cont p{font-size:16px;margin-bottom:18px;}
+.list-categories{padding: 25px 20px;}
+.search-glasses .form-control{line-height: 45px;}
+.search-glasses .btn.btn-primary{height: 45px;}
+.search-glasses{margin-bottom: 25px;}
+.categories-menu h2{font-size: 20px;}
+.gw-nav-list li a {
+    line-height: 41px;
+    font-size: 14px;}
+.section-blog .our-blog-conta h2{font-size: 22px; min-height: 53px;}
+.section-blog .our-blog-conta p {
+    font-size: 14px;}	
+.gw-nav-list > li .gw-submenu li a{font-size: 14px;}
+.section-blog .our-blog-box{min-height: 610px; margin-bottom: 30px;}	
+
+.rpb-text h5{font-size:16px; margin:0px;}
+.rpb-text p{font-size: 12px;}
+.blog-container h2 {
+    font-size: 24px; line-height: 50px;}
+.blog-container p {margin: 10px 0 24px;
+    font-size: 14px;}
+.risus-box{padding: 20px;}
+.cite h3 {
+    font-size: 18px;}
+.cite p{font-size: 14px;}
+.risus-box{margin-bottom: 20px;}
+.blog-container ul li{font-size: 14px;}
+.blog-container {
+    width: 95%;}
+	.slide-container h2 {
+    font-size: 40px;}			
+.slide-container {
+    max-width: 412px;}
+.section-blog {
+    margin: 80px 0 30px 0;
+}	
+.sup-servi ul li p{font-size: 14px; padding: 0 17px 0 0;}
+}
+@media screen and (max-width:1225px){.slide-container h2{font-size:35px;}
+.book-an-eye-test{padding:60px 0;}
+.all-title h2{font-size:32px;}
+.products-box-conta h2{font-size:16px;}
+.all-button{line-height:45px;}
+.book-an-eye-test .form-control{line-height:45px;font-size:20px;}
+.all-title h2{font-size:27px;}
+.presglasses .all-title{margin-bottom:30px;}
+.presglasses-text p{font-size:16px;}
+.presglasses-text{margin-bottom:0;}
+.section-our-blog{padding:50px 0;}
+.section-our-blog .all-title{margin-bottom:40px;}
+.our-blog-conta p{font-size:14px;}
+.footer .footer-logo{float:left;width:100px;}
+.footer .footer-menu{margin-left:11px;margin-top:13px;}
+.footer .footer-icon{float:right;margin:10px 0 0;}
+.slide-container a{max-width:195px;line-height:49px;}
+}
+@media screen and (max-width:1100px){}
+@media screen and (max-width:992px){.navbar-toggleable-md .navbar-nav .nav-link{padding:0 14px 0 0;font-size:14px;}
+.book-navbar a{font-size:14px;padding:0 15px;}
+.slide-container h2{font-size:26px;}
+.slide-container p{font-size:19px;}
+.slide-container a{max-width:167px;line-height:39px;font-size:17px;}
+.slide-container{padding-left:10px;}
+.presglasses-text p{font-size:14px;}
+.section-banner-text h2{font-size:38px;margin:0 0 30px;}
+.our-blog-conta h2{font-size:16px;}
+.our-blog-conta p{font-size:12px;}
+.footer .footer-menu ul li a{margin-right:19px;font-size:12px;}
+.copy-rights{margin-top:20px;}
+.products-box-conta p{font-size:12px;}
+.products-box-conta h2{font-size:12px;}
+.bookeyetest-text{width:90%;float:left;position:absolute;bottom:10px;left:0;}
+.bookeyetest-text a{font-size:19px;line-height:43px;}
+.about-cont h2{font-size:24px;}
+.about-cont p{font-size:14px;margin-bottom:7px;}
+.about-cont{width:100%;float:right;}
+.section-about .container{max-width:380px;}
+}
+@media screen and (max-width:767px){.navbar-toggleable-md .navbar-toggler{display:block;}
+.navbar-toggler.navbar-toggler-right.navbar-tog{display:none;}
+.navbar-toggleable-md{height:50px;left:0;top:0;z-index:2147483647;}
+.menuclose{border:1px solid #fff;color:#fff;float:right;font-size:25px;height:40px;margin:3px 16px 0 0;text-align:center;width:56px;line-height:33px;cursor:pointer;}
+.sidenav{height:100% !important;width:0;position:fixed !important;z-index:999999;left:0;background-color:#155384;overflow-x:hidden;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;padding:0;top:0;}
+#myNavbar{width:0px;margin:0px;}
+.navbar-light .navbar-toggler{color:#fff;}
+.navbar-toggler{border-color:#fff;}
+.closebtn.menuclose{display:block;}
+.navbar-light .navbar-toggler{border-color:#fff;}
+.navbar .nav-item{width:100%;}
+.header-logo{padding:10px 0;}
+.logo{float:none;max-width:100px;margin:auto;display:table;}
+.header-contact{float:none;margin:13px auto 0;display:table;}
+.header-contact li .fa.fa-phone{font-size:26px;width:31px;}
+.header-contact li span{font-weight:600;font-size:14px;}
+.header-contact li p{color:#000000;font-weight:600;font-size:13px;margin:0;}
+.book-navbar a{line-height:50px;}
+.header-contact li{margin:0;}
+.navbar-toggleable-md{margin:10px 0;height:auto;}
+.slide-container{padding:10px 0;text-align:center;}
+.slide-container a{margin:auto;display:table;float:none;}
+.book-an-eye-test .all-title{margin-bottom:0;}
+.products .container-fluid, .presglasses .container, .section-io-difference .container, .section-our-blog .container{max-width:380px;}
+.products .container-fluid .col-xs-12.col-sm-12.col-md-6.col-lg-6.pr-0.mb-4{padding:0;padding-right:0px;}
+.products-box{margin-bottom:30px;}
+.presglasses{padding:30px 0;}
+.section-banner-text{left:0;width:100%;text-align:center;}
+.section-banner-text h2{font-size:28px;margin:0 0 9px;}
+.all-title h2{font-size:21px;}
+.section-io-difference .all-title{margin-bottom:20px;}
+.section-io-difference{padding:30px 0;}
+.section-our-blog{padding:30px 0;}
+.our-blog-box{margin-bottom:30px;}
+.footer .footer-menu ul li{float:none;display:inline;}
+.footer .footer-menu{margin-left:0;margin-top:0;text-align:center;}
+.footer .footer-icon{float:none;margin:auto;display:table;}
+.copy-rights p{font-size:12px;color:#9c9c9c;text-align:center;}
+.footer .footer-logo{float:none;width:100px;margin:auto;}
+}
+@media screen and (max-width:737px){}
+@media screen and (max-width:690px){}
+@media screen and (max-width:490px){}
+@media screen and (max-width:390px){}

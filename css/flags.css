@@ -1,0 +1,1418 @@
+.flag {
+    width: 48px;
+    height: 32px;
+    display: block;
+    position: relative;
+}
+
+.flag--small {
+    width: 24px;
+    height: 16px;
+}
+
+.flag--medium {
+    width: 36px;
+    height: 24px;
+}
+
+.flag:after {
+    top: 0;
+    left: 0;
+    width: 96px;
+    height: 64px;
+    position: absolute;
+    transform: scale(0.5);
+    transform-origin: top left;
+    background-repeat: no-repeat;
+    background-image: url('$assetPrefix/images/flags.png');
+    background-position: 0 0;
+    content: '';
+}
+
+.flag--small:after {
+    transform: scale(0.25);
+}
+
+.flag--medium:after {
+    transform: scale(0.37);
+}
+
+/* Andorra */
+.flag--ad:after {
+    background-position: -96px 0;
+}
+
+/* United Arab Emirates */
+.flag--aed:after,
+.flag--ae:after {
+    background-position: -192px 0;
+}
+
+/* Afghanistan */
+.flag--afn:after,
+.flag--af:after {
+    background-position: -288px 0;
+}
+
+/* Antigua and Barbuda */
+.flag--ag:after {
+    background-position: -384px 0;
+}
+
+/* Anguilla */
+.flag--ai:after {
+    background-position: -480px 0;
+}
+
+/* Albania */
+.flag--all:after,
+.flag--al:after {
+    background-position: -576px 0;
+}
+
+/* Armenia */
+.flag--amd:after,
+.flag--am:after {
+    background-position: -672px 0;
+}
+
+/* Angola */
+.flag--aoa:after,
+.flag--ao:after {
+    background-position: -768px 0;
+}
+
+/* Argentina */
+.flag--ars:after,
+.flag--ar:after {
+    background-position: -864px 0;
+}
+
+/* American Samoa */
+.flag--as:after {
+    background-position: -960px 0;
+}
+
+/* Austria */
+.flag--at:after {
+    background-position: -1056px 0;
+}
+
+/* Australia */
+.flag--aud:after,
+.flag--au:after {
+    background-position: 0 -64px;
+}
+
+/* Aruba */
+.flag--awg:after,
+.flag--aw:after {
+    background-position: -96px -64px;
+}
+
+/* Åland Islands */
+.flag--ax:after {
+    background-position: -192px -64px;
+}
+
+/* Azerbaijan */
+.flag--azn:after,
+.flag--az:after {
+    background-position: -288px -64px;
+}
+
+/* Bosnia and Herzegovina */
+.flag--bam:after,
+.flag--ba:after {
+    background-position: -384px -64px;
+}
+
+/* Barbados */
+.flag--bbd:after,
+.flag--bb:after {
+    background-position: -480px -64px;
+}
+
+/* Bangladesh */
+.flag--bdt:after,
+.flag--bd:after {
+    background-position: -576px -64px;
+}
+
+/* Belgium */
+.flag--be:after {
+    background-position: -672px -64px;
+}
+
+/* Burkina Faso */
+.flag--bf:after {
+    background-position: -768px -64px;
+}
+
+/* Bulgaria */
+.flag--bgn:after,
+.flag--bg:after {
+    background-position: -864px -64px;
+}
+
+/* Bahrain */
+.flag--bhd:after,
+.flag--bh:after {
+    background-position: -960px -64px;
+}
+
+/* Burundi */
+.flag--bif:after,
+.flag--bi:after {
+    background-position: -1056px -64px;
+}
+
+/* Benin */
+.flag--bj:after {
+    background-position: 0 -128px;
+}
+
+/* Saint Barthélemy */
+.flag--bl:after {
+    background-position: -96px -128px;
+}
+
+/* Bermuda */
+.flag--bmd:after,
+.flag--bm:after {
+    background-position: -192px -128px;
+}
+
+/* Brunei */
+.flag--bnd:after,
+.flag--bn:after {
+    background-position: -288px -128px;
+}
+
+/* Bolivia */
+.flag--bob:after,
+.flag--bo:after {
+    background-position: -384px -128px;
+}
+
+/* Bonaire, Sint Eustatius and Saba */
+.flag--bq:after {
+    background-position: -480px -128px;
+}
+
+/* Brazil */
+.flag--brl:after,
+.flag--br:after {
+    background-position: -576px -128px;
+}
+
+/* The Bahamas */
+.flag--bsd:after,
+.flag--bs:after {
+    background-position: -672px -128px;
+}
+
+/* Bhutan */
+.flag--btn:after,
+.flag--bt:after {
+    background-position: -768px -128px;
+}
+
+/* Bouvet Island */
+.flag--bv:after {
+    background-position: -864px -128px;
+}
+
+/* Botswana */
+.flag--bwp:after,
+.flag--bw:after {
+    background-position: -960px -128px;
+}
+
+/* Belarus */
+.flag--byn:after,
+.flag--by:after {
+    background-position: -1056px -128px;
+}
+
+/* Belize */
+.flag--bzd:after,
+.flag--bz:after {
+    background-position: 0 -192px;
+}
+
+/* Canada */
+.flag--cad:after,
+.flag--ca:after {
+    background-position: -96px -192px;
+}
+
+/* Cocos (Keeling) Islands */
+.flag--cc:after {
+    background-position: -192px -192px;
+}
+
+/* Democratic Republic of the Congo */
+.flag--cdf:after,
+.flag--cd:after {
+    background-position: -288px -192px;
+}
+
+/* Central African Republic */
+.flag--xaf:after,
+.flag--cf:after {
+    background-position: -384px -192px;
+}
+
+/* Republic of the Congo */
+.flag--cg:after {
+    background-position: -480px -192px;
+}
+
+/* Switzerland */
+.flag--chf:after,
+.flag--ch:after {
+    background-position: -576px -192px;
+}
+
+/* Côte d'Ivoire */
+.flag--ci:after {
+    background-position: -672px -192px;
+}
+
+/* Cook Islands */
+.flag--ck:after {
+    background-position: -768px -192px;
+}
+
+/* Chile */
+.flag--clp:after,
+.flag--cl:after {
+    background-position: -864px -192px;
+}
+
+/* Cameroon */
+.flag--cm:after {
+    background-position: -960px -192px;
+}
+
+/* China */
+.flag--cny:after,
+.flag--cn:after {
+    background-position: -1056px -192px;
+}
+
+/* Colombia */
+.flag--cop:after,
+.flag--co:after {
+    background-position: 0 -256px;
+}
+
+/* Costa Rica */
+.flag--crc:after,
+.flag--cr:after {
+    background-position: -96px -256px;
+}
+
+/* Cuba */
+.flag--cup:after,
+.flag--cu:after {
+    background-position: -192px -256px;
+}
+
+/* Cape Verde */
+.flag--cve:after,
+.flag--cv:after {
+    background-position: -288px -256px;
+}
+
+/* Curaçao */
+.flag--cw:after {
+    background-position: -384px -256px;
+}
+
+/* Christmas Island */
+.flag--cx:after {
+    background-position: -480px -256px;
+}
+
+/* Cyprus */
+.flag--cy:after {
+    background-position: -576px -256px;
+}
+
+/* Czechia */
+.flag--czk:after,
+.flag--cz:after {
+    background-position: -672px -256px;
+}
+
+/* Germany */
+.flag--de:after {
+    background-position: -768px -256px;
+}
+
+/* Djibouti */
+.flag--djf:after,
+.flag--dj:after {
+    background-position: -864px -256px;
+}
+
+/* Denmark */
+.flag--dkk:after,
+.flag--dk:after {
+    background-position: -960px -256px;
+}
+
+/* Dominica */
+.flag--dm:after {
+    background-position: -1056px -256px;
+}
+
+/* Dominican Republic  */
+.flag--dop:after,
+.flag--do:after {
+    background-position: 0 -320px;
+}
+
+/* Algeria */
+.flag--dzd:after,
+.flag--dz:after {
+    background-position: -96px -320px;
+}
+
+/* Ecuador */
+.flag--ec:after {
+    background-position: -192px -320px;
+}
+
+/* Estonia */
+.flag--ee:after {
+    background-position: -288px -320px;
+}
+
+/* Egypt */
+.flag--egp:after,
+.flag--eg:after {
+    background-position: -384px -320px;
+}
+
+/* Eritrea */
+.flag--ern:after,
+.flag--er:after {
+    background-position: -480px -320px;
+}
+
+/* Spain */
+.flag--es:after {
+    background-position: -576px -320px;
+}
+
+/* Ethiopia */
+.flag--etb:after,
+.flag--et:after {
+    background-position: -672px -320px;
+}
+
+/* Euro */
+.flag--eur:after {
+    background-position: -768px -320px;
+}
+
+/* Finland */
+.flag--fi:after {
+    background-position: -864px -320px;
+}
+
+/* Fiji */
+.flag--fjd:after,
+.flag--fj:after {
+    background-position: -960px -320px;
+}
+
+/* Falkland Islands */
+.flag--fkp:after,
+.flag--fk:after {
+    background-position: -1056px -320px;
+}
+
+/* Micronesia */
+.flag--fm:after {
+    background-position: 0 -384px;
+}
+
+/* Faroe Islands */
+.flag--fo:after {
+    background-position: -96px -384px;
+}
+
+/* France */
+.flag--fr:after {
+    background-position: -192px -384px;
+}
+
+/* Gabon */
+.flag--ga:after {
+    background-position: -288px -384px;
+}
+
+/* Great Britain */
+.flag--gbp:after,
+.flag--gb:after {
+    background-position: -384px -384px;
+}
+
+/* Grenada */
+.flag--gd:after {
+    background-position: -480px -384px;
+}
+
+/* Georgia */
+.flag--gel:after,
+.flag--ge:after {
+    background-position: -576px -384px;
+}
+
+/* French Guiana */
+.flag--gf:after {
+    background-position: -672px -384px;
+}
+
+/* Guernsey */
+.flag--gg:after {
+    background-position: -768px -384px;
+}
+
+/* Ghana */
+.flag--ghs:after,
+.flag--gh:after {
+    background-position: -864px -384px;
+}
+
+/* Gibraltar */
+.flag--gip:after,
+.flag--gi:after {
+    background-position: -960px -384px;
+}
+
+/* Greenland */
+.flag--gl:after {
+    background-position: -1056px -384px;
+}
+
+/* Gambia */
+.flag--gmd:after,
+.flag--gm:after {
+    background-position: 0 -448px;
+}
+
+/* Guinea */
+.flag--gnf:after,
+.flag--gn:after {
+    background-position: -96px -448px;
+}
+
+/* Guadeloupe */
+.flag--gp:after {
+    background-position: -192px -448px;
+}
+
+/* Equatorial Guinea */
+.flag--gq:after {
+    background-position: -288px -448px;
+}
+
+/* Greece */
+.flag--gr:after {
+    background-position: -384px -448px;
+}
+
+/* South Georgia and the South Sandwich Islands */
+.flag--gs:after {
+    background-position: -480px -448px;
+}
+
+/* Guatemala */
+.flag--gtq:after,
+.flag--gt:after {
+    background-position: -576px -448px;
+}
+
+/* Guam */
+.flag--gu:after {
+    background-position: -672px -448px;
+}
+
+/* Guinea-Bissau */
+.flag--gw:after {
+    background-position: -768px -448px;
+}
+
+/* Guyana */
+.flag--gyd:after,
+.flag--gy:after {
+    background-position: -864px -448px;
+}
+
+/* Hong Kong */
+.flag--hkd:after,
+.flag--hk:after {
+    background-position: -960px -448px;
+}
+
+/* Honduras */
+.flag--hnl:after,
+.flag--hn:after {
+    background-position: -1056px -448px;
+}
+
+/* Croatia */
+.flag--hrk:after,
+.flag--hr:after {
+    background-position: 0 -512px;
+}
+
+/* Haiti */
+.flag--htg:after,
+.flag--ht:after {
+    background-position: -96px -512px;
+}
+
+/* Hungary */
+.flag--huf:after,
+.flag--hu:after {
+    background-position: -192px -512px;
+}
+
+/* Indonesia */
+.flag--idr:after,
+.flag--id:after {
+    background-position: -288px -512px;
+}
+
+/* Ireland */
+.flag--ie:after {
+    background-position: -384px -512px;
+}
+
+/* Israel */
+.flag--ils:after,
+.flag--il:after {
+    background-position: -480px -512px;
+}
+
+/* Isle of Man */
+.flag--im:after {
+    background-position: -576px -512px;
+}
+
+/* India */
+.flag--inr:after,
+.flag--in:after {
+    background-position: -672px -512px;
+}
+
+/* British Indian Ocean Territory */
+.flag--io:after {
+    background-position: -768px -512px;
+}
+
+/* Iraq */
+.flag--iqd:after,
+.flag--iq:after {
+    background-position: -864px -512px;
+}
+
+/* Iran */
+.flag--irr:after,
+.flag--ir:after {
+    background-position: -960px -512px;
+}
+
+/* Iceland */
+.flag--isk:after,
+.flag--is:after {
+    background-position: -1056px -512px;
+}
+
+/* Italy */
+.flag--it:after {
+    background-position: 0 -576px;
+}
+
+/* Jersey */
+.flag--je:after {
+    background-position: -96px -576px;
+}
+
+/* Jamaica */
+.flag--jmd:after,
+.flag--jm:after {
+    background-position: -192px -576px;
+}
+
+/* Jordan */
+.flag--jod:after,
+.flag--jo:after {
+    background-position: -288px -576px;
+}
+
+/* Japan */
+.flag--jpy:after,
+.flag--jp:after {
+    background-position: -384px -576px;
+}
+
+/* Kenya */
+.flag--kes:after,
+.flag--ke:after {
+    background-position: -480px -576px;
+}
+
+/* Kyrgyzstan */
+.flag--kgs:after,
+.flag--kg:after {
+    background-position: -576px -576px;
+}
+
+/* Cambodia */
+.flag--khr:after,
+.flag--kh:after {
+    background-position: -672px -576px;
+}
+
+/* Kiribati */
+.flag--ki:after {
+    background-position: -768px -576px;
+}
+
+/* Comoros */
+.flag--kmf:after,
+.flag--km:after {
+    background-position: -864px -576px;
+}
+
+/* Saint Kitts and Nevis */
+.flag--kn:after {
+    background-position: -960px -576px;
+}
+
+/* North Korea */
+.flag--kpw:after,
+.flag--kp:after {
+    background-position: -1056px -576px;
+}
+
+/* South Korea */
+.flag--krw:after,
+.flag--kr:after {
+    background-position: 0 -640px;
+}
+
+/* Kuwait */
+.flag--kwd:after,
+.flag--kw:after {
+    background-position: -96px -640px;
+}
+
+/* Cayman Islands */
+.flag--kyd:after,
+.flag--ky:after {
+    background-position: -192px -640px;
+}
+
+/* Kazakhstan */
+.flag--kzt:after,
+.flag--kz:after {
+    background-position: -288px -640px;
+}
+
+/* Lao People's Democratic Republic */
+.flag--lak:after,
+.flag--la:after {
+    background-position: -384px -640px;
+}
+
+/* Lebanon */
+.flag--lbp:after,
+.flag--lb:after {
+    background-position: -480px -640px;
+}
+
+/* Saint Lucia */
+.flag--lc:after {
+    background-position: -576px -640px;
+}
+
+/* Liechtenstein */
+.flag--li:after {
+    background-position: -672px -640px;
+}
+
+/* Sri Lanka */
+.flag--lkr:after,
+.flag--lk:after {
+    background-position: -768px -640px;
+}
+
+/* Liberia */
+.flag--lrd:after,
+.flag--lr:after {
+    background-position: -864px -640px;
+}
+
+/* Lesotho */
+.flag--lsl:after,
+.flag--ls:after {
+    background-position: -960px -640px;
+}
+
+/* Lithuania */
+.flag--lt:after {
+    background-position: -1056px -640px;
+}
+
+/* Luxembourg */
+.flag--lu:after {
+    background-position: 0 -704px;
+}
+
+/* Latvia */
+.flag--lv:after {
+    background-position: -96px -704px;
+}
+
+/* Libya */
+.flag--lyd:after,
+.flag--ly:after {
+    background-position: -192px -704px;
+}
+
+/* Morocco */
+.flag--mad:after,
+.flag--ma:after {
+    background-position: -288px -704px;
+}
+
+/* Monaco */
+.flag--mc:after {
+    background-position: -384px -704px;
+}
+
+/* Moldova */
+.flag--mdl:after,
+.flag--md:after {
+    background-position: -480px -704px;
+}
+
+/* Montenegro */
+.flag--me:after {
+    background-position: -576px -704px;
+}
+
+/* Madagascar */
+.flag--mga:after,
+.flag--mg:after {
+    background-position: -672px -704px;
+}
+
+/* Marshall Islands */
+.flag--mh:after {
+    background-position: -768px -704px;
+}
+
+/* Republic of North Macedonia */
+.flag--mkd:after,
+.flag--mk:after {
+    background-position: -864px -704px;
+}
+
+/* Mali */
+.flag--ml:after {
+    background-position: -960px -704px;
+}
+
+/* Myanmar */
+.flag--mmk:after,
+.flag--mm:after {
+    background-position: -1056px -704px;
+}
+
+/* Mongolia */
+.flag--mnt:after,
+.flag--mn:after {
+    background-position: 0 -768px;
+}
+
+/* Macao */
+.flag--mop:after,
+.flag--mo:after {
+    background-position: -96px -768px;
+}
+
+/* Northern Mariana Islands */
+.flag--mp:after {
+    background-position: -192px -768px;
+}
+
+/* Martinique */
+.flag--mq:after {
+    background-position: -288px -768px;
+}
+
+/* Mauritania */
+.flag--mro:after,
+.flag--mr:after {
+    background-position: -384px -768px;
+}
+
+/* Montserrat */
+.flag--ms:after {
+    background-position: -480px -768px;
+}
+
+/* Malta */
+.flag--mt:after {
+    background-position: -576px -768px;
+}
+
+/* Mauritius */
+.flag--mur:after,
+.flag--mu:after {
+    background-position: -672px -768px;
+}
+
+/* Maldives */
+.flag--mvr:after,
+.flag--mv:after {
+    background-position: -768px -768px;
+}
+
+/* Malawi */
+.flag--mwk:after,
+.flag--mw:after {
+    background-position: -864px -768px;
+}
+
+/* Mexico */
+.flag--mxn:after,
+.flag--mx:after {
+    background-position: -960px -768px;
+}
+
+/* Malaysia */
+.flag--myr:after,
+.flag--my:after {
+    background-position: -1056px -768px;
+}
+
+/* Mozambique */
+.flag--mzn:after,
+.flag--mz:after {
+    background-position: 0 -832px;
+}
+
+/* Namibia */
+.flag--nad:after,
+.flag--na:after {
+    background-position: -96px -832px;
+}
+
+/* New Caledonia */
+.flag--nc:after {
+    background-position: -192px -832px;
+}
+
+/* Niger */
+.flag--ne:after {
+    background-position: -288px -832px;
+}
+
+/* Norfolk Island */
+.flag--nf:after {
+    background-position: -384px -832px;
+}
+
+/* Nigeria */
+.flag--ngn:after,
+.flag--ng:after {
+    background-position: -480px -832px;
+}
+
+/* Nicaragua */
+.flag--nio:after,
+.flag--ni:after {
+    background-position: -576px -832px;
+}
+
+/* Netherlands */
+.flag--ang:after,
+.flag--nl:after {
+    background-position: -672px -832px;
+}
+
+/* Norway */
+.flag--nok:after,
+.flag--no:after {
+    background-position: -768px -832px;
+}
+
+/* Nepal */
+.flag--npr:after,
+.flag--np:after {
+    background-position: -864px -832px;
+}
+
+/* Nauru */
+.flag--nr:after {
+    background-position: -960px -832px;
+}
+
+/* Niue */
+.flag--nu:after {
+    background-position: -1056px -832px;
+}
+
+/* New Zealand	 */
+.flag--nzd:after,
+.flag--nz:after {
+    background-position: 0 -896px;
+}
+
+/* Oman */
+.flag--omr:after,
+.flag--om:after {
+    background-position: -96px -896px;
+}
+
+/* Panama */
+.flag--pab:after,
+.flag--pa:after {
+    background-position: -192px -896px;
+}
+
+/* Peru */
+.flag--pen:after,
+.flag--pe:after {
+    background-position: -288px -896px;
+}
+
+/* French Polynesia	*/
+.flag--pf:after {
+    background-position: -384px -896px;
+}
+
+/* Papua New Guinea */
+.flag--pgk:after,
+.flag--pg:after {
+    background-position: -480px -896px;
+}
+
+/* Philippines */
+.flag--php:after,
+.flag--ph:after {
+    background-position: -576px -896px;
+}
+
+/* Pakistan */
+.flag--pkr:after,
+.flag--pk:after {
+    background-position: -672px -896px;
+}
+
+/* Poland */
+.flag--pln:after,
+.flag--pl:after {
+    background-position: -768px -896px;
+}
+
+/* Saint Pierre and Miquelon */
+.flag--pm:after {
+    background-position: -864px -896px;
+}
+
+/* Pitcairn */
+.flag--pn:after {
+    background-position: -960px -896px;
+}
+
+/* Puerto Rico */
+.flag--pr:after {
+    background-position: -1056px -896px;
+}
+
+/* Palestine, State of */
+.flag--ps:after {
+    background-position: 0 -960px;
+}
+
+/* Portugal */
+.flag--pt:after {
+    background-position: -96px -960px;
+}
+
+/* Palau */
+.flag--pw:after {
+    background-position: -192px -960px;
+}
+
+/* Paraguay */
+.flag--pyg:after,
+.flag--py:after {
+    background-position: -288px -960px;
+}
+
+/* Qatar */
+.flag--qar:after,
+.flag--qa:after {
+    background-position: -384px -960px;
+}
+
+/* Réunion */
+.flag--re:after {
+    background-position: -480px -960px;
+}
+
+/* Romania */
+.flag--ron:after,
+.flag--ro:after {
+    background-position: -576px -960px;
+}
+
+/* Serbia */
+.flag--rsd:after,
+.flag--rs:after {
+    background-position: -672px -960px;
+}
+
+/* Russia */
+.flag--rub:after,
+.flag--ru:after {
+    background-position: -768px -960px;
+}
+
+/* Rwanda */
+.flag--rwf:after,
+.flag--rw:after {
+    background-position: -864px -960px;
+}
+
+/* Saudi Arabia */
+.flag--sar:after,
+.flag--sa:after {
+    background-position: -960px -960px;
+}
+
+/* Solomon Islands */
+.flag--sbd:after,
+.flag--sb:after {
+    background-position: -1056px -960px;
+}
+
+/* Seychelles */
+.flag--scr:after,
+.flag--sc:after {
+    background-position: 0 -1024px;
+}
+
+/* Sudan */
+.flag--sdg:after,
+.flag--sd:after {
+    background-position: -96px -1024px;
+}
+
+/* Sweden */
+.flag--sek:after,
+.flag--se:after {
+    background-position: -192px -1024px;
+}
+
+/* Singapore */
+.flag--sgd:after,
+.flag--sg:after {
+    background-position: -288px -1024px;
+}
+
+/* Saint Helena, Ascension and Tristan da Cunha */
+.flag--shp:after,
+.flag--sh:after {
+    background-position: -384px -1024px;
+}
+
+/* Slovenia */
+.flag--si:after {
+    background-position: -480px -1024px;
+}
+
+/* Slovakia */
+.flag--sk:after {
+    background-position: -576px -1024px;
+}
+
+/* Sierra Leone */
+.flag--sll:after,
+.flag--sl:after {
+    background-position: -672px -1024px;
+}
+
+/* San Marino */
+.flag--sm:after {
+    background-position: -768px -1024px;
+}
+
+/* Senegal */
+.flag--sn:after {
+    background-position: -864px -1024px;
+}
+
+/* Somalia */
+.flag--sos:after,
+.flag--so:after {
+    background-position: -960px -1024px;
+}
+
+/* Suriname */
+.flag--srd:after,
+.flag--sr:after {
+    background-position: -1056px -1024px;
+}
+
+/* South Sudan */
+.flag--ss:after {
+    background-position: 0 -1088px;
+}
+
+/* Sao Tome and Principe */
+.flag--std:after,
+.flag--st:after {
+    background-position: -96px -1088px;
+}
+
+/* El Salvador */
+.flag--svc:after,
+.flag--sv:after {
+    background-position: -192px -1088px;
+}
+
+/* Sint Maarten (Dutch part) */
+.flag--sx:after {
+    background-position: -288px -1088px;
+}
+
+/* Syrian Arab Republic */
+.flag--syp:after,
+.flag--sy:after {
+    background-position: -384px -1088px;
+}
+
+/* Eswatini */
+.flag--szl:after,
+.flag--sz:after {
+    background-position: -480px -1088px;
+}
+
+/* Turks and Caicos Islands */
+.flag--tc:after {
+    background-position: -576px -1088px;
+}
+
+/* Chad */
+.flag--td:after {
+    background-position: -672px -1088px;
+}
+
+/* French Southern Territories */
+.flag--tf:after {
+    background-position: -768px -1088px;
+}
+
+/* Togo */
+.flag--tg:after {
+    background-position: -864px -1088px;
+}
+
+/* Thailand */
+.flag--thb:after,
+.flag--th:after {
+    background-position: -960px -1088px;
+}
+
+/* Tajikistan */
+.flag--tjs:after,
+.flag--tj:after {
+    background-position: -1056px -1088px;
+}
+
+/* Tokelau */
+.flag--tk:after {
+    background-position: 0 -1152px;
+}
+
+/* Timor-Leste */
+.flag--tl:after {
+    background-position: -96px -1152px;
+}
+
+/* Turkmenistan */
+.flag--tmt:after,
+.flag--tm:after {
+    background-position: -192px -1152px;
+}
+
+/* Tunisia */
+.flag--tnd:after,
+.flag--tn:after {
+    background-position: -288px -1152px;
+}
+
+/* Tonga */
+.flag--top:after,
+.flag--to:after {
+    background-position: -384px -1152px;
+}
+
+/* Turkey */
+.flag--try:after,
+.flag--tr:after {
+    background-position: -480px -1152px;
+}
+
+/* Trinidad and Tobago */
+.flag--ttd:after,
+.flag--tt:after {
+    background-position: -576px -1152px;
+}
+
+/* Tuvalu */
+.flag--tv:after {
+    background-position: -672px -1152px;
+}
+
+/* Taiwan */
+.flag--twd:after,
+.flag--tw:after {
+    background-position: -768px -1152px;
+}
+
+/* Tanzania */
+.flag--tzs:after,
+.flag--tz:after {
+    background-position: -864px -1152px;
+}
+
+/* Ukraine */
+.flag--uah:after,
+.flag--ua:after {
+    background-position: -960px -1152px;
+}
+
+/* Uganda */
+.flag--ugx:after,
+.flag--ug:after {
+    background-position: -1056px -1152px;
+}
+
+/* United States Minor Outlying Islands */
+.flag--um:after {
+    background-position: -1152px 0;
+}
+
+/* United States of America */
+.flag--usd:after,
+.flag--us:after {
+    background-position: -1152px -64px;
+}
+
+/* Uruguay */
+.flag--uyu:after,
+.flag--uy:after {
+    background-position: -1152px -128px;
+}
+
+/* Uzbekistan */
+.flag--uzs:after,
+.flag--uz:after {
+    background-position: -1152px -192px;
+}
+
+/* Holy See */
+.flag--va:after {
+    background-position: -1152px -256px;
+}
+
+/* Saint Vincent and the Grenadines */
+.flag--vc:after {
+    background-position: -1152px -320px;
+}
+
+/* Venezuela */
+.flag--ve:after {
+    background-position: -1152px -384px;
+}
+
+/* Virgin Islands (British) */
+.flag--vg:after {
+    background-position: -1152px -448px;
+}
+
+/* Virgin Islands (U.S.) */
+.flag--vi:after {
+    background-position: -1152px -512px;
+}
+
+/* Viet Nam */
+.flag--vnd:after,
+.flag--vn:after {
+    background-position: -1152px -576px;
+}
+
+/* Vanuatu */
+.flag--vuv:after,
+.flag--vu:after {
+    background-position: -1152px -640px;
+}
+
+/* Wallis and Futuna */
+.flag--wf:after {
+    background-position: -1152px -704px;
+}
+
+/* Samoa */
+.flag--wst:after,
+.flag--ws:after {
+    background-position: -1152px -768px;
+}
+
+/* East Caribbean Dollar */
+.flag--xcd:after {
+    background-position: -1152px -832px;
+}
+
+/* Yemen */
+.flag--yer:after,
+.flag--ye:after {
+    background-position: -1152px -896px;
+}
+
+/* Mayotte */
+.flag--yt:after {
+    background-position: -1152px -960px;
+}
+
+/* South Africa */
+.flag--zar:after,
+.flag--za:after {
+    background-position: -1152px -1024px;
+}
+
+/* Zambia */
+.flag--zmw:after,
+.flag--zm:after {
+    background-position: -1152px -1088px;
+}
+
+/* Zimbabwe */
+.flag--zwl:after,
+.flag--zw:after {
+    background-position: -1152px -1152px;
+}
